@@ -1,5 +1,8 @@
 **Differential Drop**
 
+Play the game here:
+*[differential-drop.vercel.app](url)*
+
 Just a heads up, most people have had a better time with the resolution playing this game fullscreened!
 
 This project is a short math game I developed as a submission for my AP Calculus BC final junior year of high school.
