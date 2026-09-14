@@ -1,7 +1,7 @@
 **Differential Drop**
 
 Play the game here:
-*[differential-drop.vercel.app](url)*
+*[differential-drop.vercel.app](differential-drop.vercel.app)*
 
 Just a heads up, most people have had a better time with the resolution playing this game fullscreened!
 
